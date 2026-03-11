@@ -1,0 +1,8 @@
+Today practice problems
+1.https://neetcode.io/problems/score-of-a-string/question?list=allNC
+2.https://neetcode.io/problems/concatenation-of-array/question?list=allNC
+3.https://neetcode.io/problems/duplicate-integer/question?list=allNC
+Complete the today home work & post in Github.
+All should solve the questions on your own. No one should copy.
+March  25th We have scheduled the assessment. If you are not performing in the assessment then you will be removed from the placement prcess.
+Be serious in your practice
